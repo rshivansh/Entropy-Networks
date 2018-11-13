@@ -1,7 +1,6 @@
 # Entropy-Networks
 Implementation of entropy network in Matlab
 
-Radial Basis Function Networks
 
 
 Worked on improving the performance of Radial Basis Function Network (RBFN) by learning its
